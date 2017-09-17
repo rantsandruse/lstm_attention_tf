@@ -1,11 +1,11 @@
-This is an extension of the previous project (lstm_word2vec) 
+This is an extension of the previous project (lstm_word2vec). Now we have a tensorflow implementation of LSTM for the purpose of sentiment analysis, with the option of adding an attention layer. 
 
-In this project, I reused the I/O function and data prep functions from lstm_word2vec: 
+In this project, I reused the I/O function and data prep functions from lstm_word2vec.  
 
 The major improvements are: 
-1. Migration code from keras to TF. 
+1. Migration of code from keras to TF. 
 2. Added an optional attention layer plus visualization. 
-3. Added batch generator class that can be easily used for different datasets.  
+3. Added a batch generator class that can be easily used for different datasets.  
 
 The main_lstm.ipynb show cases how to leverage existing functions to train your own LSTM + attention layer model. 
 
