@@ -1,4 +1,4 @@
-# Tensorflow implementation of LSTM based sentiment analysis with attention layer: 
+# Tensorflow implementation of LSTM based sentiment analysis with attention layer
 Bag of Words vs. Bag of Popcorn as an example 
 
 This is an extension of the previous project (lstm_word2vec). Now we have a tensorflow implementation of LSTM for the purpose of sentiment analysis, with the option of adding an attention layer. 
