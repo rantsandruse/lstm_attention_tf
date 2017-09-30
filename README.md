@@ -12,6 +12,5 @@ The major improvements are:
 
 The main_lstm.ipynb show cases how to leverage existing functions to train your own LSTM + attention layer model. 
 
-Addition of the attention layer appears to marginally improve the results of the testing set. But further testing is needed to establish the significance of the improvement... My intuition is that the for this particular data set, the marginally benefit of adding an additional attention layer is almost negligble. 
-
+Addition of the attention layer appears to marginally improve the results of the testing set. But further testing is needed to establish the significance of the improvement... 
 
